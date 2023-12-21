@@ -1,0 +1,12 @@
+/home/codio/workspace/target/debug/deps/tempfile-d467d70665c758d1.rmeta: /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/lib.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/dir.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/error.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/mod.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/imp/mod.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/spooled.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/util.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/imp/unix.rs
+
+/home/codio/workspace/target/debug/deps/tempfile-d467d70665c758d1.d: /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/lib.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/dir.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/error.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/mod.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/imp/mod.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/spooled.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/util.rs /home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/imp/unix.rs
+
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/lib.rs:
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/dir.rs:
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/error.rs:
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/mod.rs:
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/imp/mod.rs:
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/spooled.rs:
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/util.rs:
+/home/codio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.2.0/src/file/imp/unix.rs:
